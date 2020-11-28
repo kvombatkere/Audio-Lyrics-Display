@@ -5,7 +5,6 @@
 2. Real-time implementation of the dynamic time warping algorithm to align annotated and live temporal sequences, based on their harmonic similarity.
 3. GUI to load lyrics files and display lyrics in real time
 
-
 Here is a flowchart overview of the project: 
 <p align="center">
 <img src="/images/Research%20System%20Flowchart.png" width="600" height="400">
@@ -20,3 +19,7 @@ As basic harmonic progression of two recordings is similar, I extracted chroma f
 <p align="center">
 <img src="/images/Multithread%20Buffer%20Flowchart.png" width="600" height="400">
 </p>
+
+
+##### Audio Information Research Lab, University of Rochester, Summer 2016
+###### Contributors: Karan Vombatkere, Bochen Li
